@@ -5,4 +5,7 @@ Movie API with Graphql
 
 설치
 -----
-`yarn add graphql-yoga`
+```
+yarn add graphql-yoga
+yarn global add nodemon : 파일 수정시 서버 재시작
+```
